@@ -19,6 +19,8 @@ import math "math"
 import _ "github.com/gogo/protobuf/gogoproto"
 import _ "github.com/golang/protobuf/ptypes/timestamp"
 
+import time "time"
+
 import strings "strings"
 import reflect "reflect"
 
